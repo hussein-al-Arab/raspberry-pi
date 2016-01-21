@@ -1,5 +1,5 @@
 # raspberry-pi
-my first repository on GitHub
+#my first repository on GitHub
 Je voudrais vous présenter le plan de mon sujet, en esperant qu'il obtiendra votre satisfaction:
 1- Qu'est ce que raspberry pi 2.
 2- Structure ( USB, HDMI, RAM, Micro SD, GPIO ...).
